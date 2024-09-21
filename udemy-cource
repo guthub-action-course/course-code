@@ -8,3 +8,7 @@ https://docs.github.com/en/actions/using-github-hosted-runners/using-github-host
 
 Workflow commands for GitHub Actions
 https://docs.github.com/en/actions/writing-workflows/choosing-what-your-workflow-does/workflow-commands-for-github-actions
+
+Workflow syntax for GitHub Actions
+https://docs.github.com/en/actions/writing-workflows/workflow-syntax-for-github-actions#jobsjob_idstepsshell
+
