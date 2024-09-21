@@ -1,1 +1,7 @@
 The complete GitHub Actions & Workflow Guide
+
+GitHub Actions for VS Code
+https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-github-actions
+
+Using GitHub-hosted runners
+https://docs.github.com/en/actions/using-github-hosted-runners/using-github-hosted-runners#supported-runners-and-hardware-resources
