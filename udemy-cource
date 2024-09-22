@@ -18,3 +18,6 @@ https://github.com/marketplace?type=actions
 GitHub Action: Checkout
 https://github.com/marketplace/actions/checkout
 
+Events that trigger workflows
+https://docs.github.com/en/actions/writing-workflows/choosing-when-your-workflow-runs/events-that-trigger-workflows
+
