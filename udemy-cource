@@ -21,3 +21,15 @@ https://github.com/marketplace/actions/checkout
 Events that trigger workflows
 https://docs.github.com/en/actions/writing-workflows/choosing-when-your-workflow-runs/events-that-trigger-workflows
 
+Approving workflow runs from public forks
+https://docs.github.com/en/actions/managing-workflow-runs-and-deployments/managing-workflow-runs/approving-workflow-runs-from-public-forks
+
+Approving workflow runs from private forks
+https://docs.github.com/en/actions/managing-workflow-runs-and-deployments/managing-workflow-runs/approving-workflow-runs-from-private-forks
+
+github-script
+https://github.com/actions/github-script
+
+octokit/rest.js
+https://octokit.github.io/rest.js/v19/
+
